@@ -1,1 +1,1 @@
-# mirai-telnet-api
+Telnet API for Mirai Botnets
